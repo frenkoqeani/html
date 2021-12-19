@@ -1,0 +1,17 @@
+p{
+    position: absolute;
+    margin: 35px 30px 30px 30px;  
+    color: white;
+}
+div{
+    display: flex;
+    margin: 100px;
+    height: 100px;
+    width: 100px;
+    background-color: orange;
+    transition: ease 2s;
+}
+div:hover{
+    margin: 10px;
+    background-color: black;
+}
